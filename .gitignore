@@ -1,0 +1,7 @@
+# Ignore model weights directories
+falcon3-7b/
+qwen2.5-7b/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
