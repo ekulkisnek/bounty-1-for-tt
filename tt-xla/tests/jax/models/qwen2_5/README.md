@@ -1,5 +1,7 @@
 # Qwen2.5-7B Tensor-Parallel JAX Implementation
 
+> Successfully pushed to GitHub repository!
+
 This directory contains a tensor-parallel implementation of the Qwen2.5-7B model using JAX and Flax. The implementation is designed to run efficiently on multiple devices using JAX's tensor parallelism features.
 
 ## Model Architecture
